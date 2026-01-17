@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  interview_date: 2026-01-17
+  selected_slot: 2026-01-17 18:47:08
+  status: MyString
+
+two:
+  user: two
+  interview_date: 2026-01-17
+  selected_slot: 2026-01-17 18:47:08
+  status: MyString

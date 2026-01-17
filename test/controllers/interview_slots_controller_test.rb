@@ -1,6 +1,6 @@
 require "test_helper"
 
-class InterviewBookingControllerTest < ActionDispatch::IntegrationTest
+class InterviewSlotsControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end
